@@ -1,3 +1,3 @@
 # Website
 
-<a>https://weather-city.surge.sh<a>
+<a>weather-city.surge.sh<a>
